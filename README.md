@@ -62,6 +62,46 @@ anything:
 
 That's also why contract and freelance work is the safer first target.
 
+## Reddit threads: what I could and couldn't check
+
+Reddit blocks automated access ("Prove your humanity" challenge), so I could not
+read any of the threads ChatGPT cited:
+
+- r/overemployed: "How are you guys sourcing these jobs?" (18chru9)
+- r/overemployed: "Jobs that are easy to automate?" (1c9fish)
+- r/AskProgramming: "For those who automated their jobs" (1rva1fm)
+
+I also couldn't find the "I make 18k but get AI to do my job" post by search.
+What I know about these threads is the short quotes in the ChatGPT chat (sorting
+forms, OCR, uploads to a company portal; spreadsheet processing; "paralegal" and
+data-entry work). I haven't verified them, and they are anecdotes. A Blind
+thread, [Automating entire job](https://www.teamblind.com/post/automating-entire-job-mopxqkzl),
+turned up in search, but I couldn't retrieve its content.
+
+**To close this gap, open the three threads yourself and paste the comments here,
+or tell me which job titles the posters give.** I can then match those titles to
+live UK vacancies.
+
+## Other things we could do
+
+1. **Freelance extraction and reconciliation gigs.** [Upwork](https://www.upwork.com/hire/data-extraction-freelancers/eg/)
+   has live listings for invoice posting, bank reconciliation and PDF-to-spreadsheet
+   conversion. I found no live UK PeoplePerHour or Freelancer.co.uk equivalents
+   by search, so check those boards directly. Here the client pays for the result,
+   so building an agent is the job.
+2. **Contract ecommerce and product-data work.** One charity ecommerce admin
+   contract (fully remote, 3 days a week, £150-160/day, Shopify uploads and feeds)
+   showed up, but I couldn't confirm it's still open. Most other product-data and
+   data-cleansing listings were old, hybrid or full-time.
+3. **A small automation service for UK small businesses.** The demand drivers are
+   real (Making Tax Digital, inbox and invoice admin), but I only found vendor
+   marketing, with no reliable pricing or demand figures. The UK GDPR duties of
+   processing clients' emails and invoices would need checking first.
+4. **Build a portfolio agent first.** A document-to-spreadsheet pipeline (OCR,
+   field extraction, validation, exception log) on sample invoices shows what you
+   can do to employers and clients, and lets you test reliability before relying
+   on it.
+
 ## Suggested next steps
 
 - Apply to VoucherCodes and SATs Companion (both open), and Assize Data if you want a small technical side job (closes 8 Nov).
